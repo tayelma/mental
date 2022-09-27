@@ -1,0 +1,86 @@
+.results-bodyoutline {
+  margin-top: 5em;
+  padding: 1rem;
+  background: #ffffff;
+  box-shadow: 0px 8px 24px rgba(0, 0, 0, 0.15);
+}
+
+.resultsTitle {
+  width: 10.25rem;
+  height: 2.688rem;
+  left: 19.375rem;
+  top: 9.938rem;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 2.125rem;
+  /* or 106% */
+
+  letter-spacing: -0.01em;
+
+  color: #000000;
+}
+
+.predictedDisorder {
+  /* position: absolute;
+  width: 724px;
+  height: 106px;
+  left: 523px;
+  top: 187px; */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 2.125rem;
+  /* or 85% */
+
+  /* display: flex; */
+  align-items: center;
+  text-align: center;
+  letter-spacing: -0.01em;
+
+  color: #000000;
+
+  text-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+}
+
+.printIcon {
+  /* position: relative; */
+  width: 3rem;
+  height: 3.2rem;
+  left: 115.625rem;
+  top: 8.25rem;
+}
+
+.dividingBar {
+  /* position: absolute; */
+  width: 100%;
+  height: 0rem;
+  left: 19.188rem;
+  top: 19.938rem;
+
+  border: 1px solid #000000;
+  transform: rotate(-0.3deg);
+}
+
+.diagnoseResult {
+  /* position: absolute; */
+  /* width: 537px;
+  height: 31px;
+  left: 329px; */
+  margin-top: 2rem;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 34px;
+  /* or 106% */
+
+  letter-spacing: -0.01em;
+
+  color: #000000;
+}
